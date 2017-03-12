@@ -1,0 +1,6 @@
+D:\EPAM\NET.S.2017.01.Bely.02\Task1\bin\Debug\Task1.dll
+D:\EPAM\NET.S.2017.01.Bely.02\Task1\bin\Debug\Task1.pdb
+D:\EPAM\NET.S.2017.01.Bely.02\Task1\obj\Debug\Task1.dll
+D:\EPAM\NET.S.2017.01.Bely.02\Task1\obj\Debug\Task1.pdb
+D:\EPAM\NET.S.2017.01.Bely.02\Task1\bin\Debug\Task1.XML
+d:\EPAM\NET.S.2017.01.Bely.02\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache

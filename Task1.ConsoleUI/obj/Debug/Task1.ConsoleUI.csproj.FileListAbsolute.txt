@@ -1,0 +1,10 @@
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\bin\Debug\Task1.ConsoleUI.exe.config
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\bin\Debug\Task1.ConsoleUI.exe
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\bin\Debug\Task1.ConsoleUI.pdb
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\bin\Debug\Task1.dll
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\bin\Debug\Task1.pdb
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\bin\Debug\Task1.xml
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\obj\Debug\Task1.ConsoleUI.csprojResolveAssemblyReference.cache
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\obj\Debug\Task1.ConsoleUI.exe
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\obj\Debug\Task1.ConsoleUI.pdb
+d:\EPAM\NET.S.2017.01.Bely.02\Task1.ConsoleUI\bin\Debug\Task1.ConsoleUI.XML

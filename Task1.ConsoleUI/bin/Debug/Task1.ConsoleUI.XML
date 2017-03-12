@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Task1.ConsoleUI</name>
+    </assembly>
+    <members>
+        <member name="T:Task1.ConsoleUI.Program">
+            <summary>
+             Uses console user interface to display
+             sorted arrays
+            </summary>
+        </member>
+        <member name="M:Task1.ConsoleUI.Program.Main(System.String[])">
+            <summary>
+            Entry point of the application
+            </summary>
+        </member>
+    </members>
+</doc>
