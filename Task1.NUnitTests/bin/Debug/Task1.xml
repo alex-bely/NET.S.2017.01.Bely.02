@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Task1</name>
+    </assembly>
+    <members>
+        <member name="T:Task1.MergeSort">
+            <summary>
+            Provides method that 
+            implements merge sorting algorithm. 
+            </summary>
+        </member>
+        <member name="M:Task1.MergeSort.Sort(System.Int32[])">
+            <summary>
+            Sorts the elements in a one-dimensional array of integer
+            </summary>
+            <param name="array">The one-dimensional integer array to sort.</param>
+        </member>
+    </members>
+</doc>

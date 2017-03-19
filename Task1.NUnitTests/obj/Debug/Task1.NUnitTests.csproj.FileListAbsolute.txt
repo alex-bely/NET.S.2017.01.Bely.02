@@ -1,0 +1,10 @@
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\bin\Debug\Task1.NUnitTests.dll
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\bin\Debug\Task1.NUnitTests.pdb
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\bin\Debug\nunit.framework.dll
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\bin\Debug\Task1.dll
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\bin\Debug\Task1.pdb
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\bin\Debug\Task1.xml
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\bin\Debug\nunit.framework.xml
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\obj\Debug\Task1.NUnitTests.csprojResolveAssemblyReference.cache
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\obj\Debug\Task1.NUnitTests.dll
+D:\EPAM\NET.S.2017.01.Bely.02\Task1.NUnitTests\obj\Debug\Task1.NUnitTests.pdb

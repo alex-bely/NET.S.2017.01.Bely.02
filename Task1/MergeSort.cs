@@ -10,15 +10,22 @@ namespace Task1
     /// </summary>
     public static class MergeSort
     {
+        #region public method
         /// <summary>
         /// Sorts the elements in a one-dimensional array of integer
         /// </summary>
         /// <param name="array">The one-dimensional integer array to sort.</param>
+        
         public static void Sort(int[] array)
         {
+            if (array == null) throw new ArgumentNullException();
+            if (array.Length == 0) throw new ArgumentOutOfRangeException();
+
             Sort(array, 0, array.Length - 1);
         }
+        #endregion
 
+        #region private methods
         private static void Sort(int[] input, int left, int right)
         {
 
@@ -69,5 +76,6 @@ namespace Task1
                 }
             }
         }
+        #endregion
     }
 }
